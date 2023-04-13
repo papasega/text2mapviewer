@@ -15,11 +15,11 @@ classifiers = [
 ]
  
 setup(
-  name='Map Embedding Text/CSV Data',
+  name='text2embeddingview',
   version='0.1.0',
   description='A python package to map your own csv files data using Atlas from NOMIC',
   long_description=open('README.md').read() + '\n\n' + open('CHANGELOG.md').read(),
-  url='',  
+  url='https://github.com/papasega/text2embeddingview',  
   author='Papa Séga WADE',
   author_email='pasega.wade@gmail.com',
   license='MIT', 
