@@ -29,7 +29,7 @@ To install the necessary dependencies, run the following command:
 python -m venv mymapenv 
 source mymapenv/bin/activate
 pip install --upgrade pip 
-pip install text2mapview==0.2.1
+pip install text2mapviewer==0.1.0
 ```
 
 ## Supported Transformer Models from Hugging Face 
