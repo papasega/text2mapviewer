@@ -45,8 +45,12 @@ nomic login
 If you have already your account : 
 
 ```bash
-nomic login [YOUR_API_TOKEN_NOMIC_HERE]
+nomic login [YOUR_API_TOKEN_NOMIC_HERE] 
 ```
+    - In google colab : 
+        ```bash
+        !nomic login [YOUR_API_TOKEN_NOMIC_HERE]
+        ```
 
 ## Supported Transformer Models from Hugging Face 
 
