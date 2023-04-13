@@ -44,6 +44,7 @@ Please ensure that the model you choose is compatible with the project requireme
 ## To map your text/csv  files
 
 ```bash
+pip install -r requirements.txt
 python main.py --transformer-model-name MODEL_NAME --cache_dir CACHE_DIR --batch-size BATCH_SIZE --file-path FILE_PATH
 ```
 Remarque for the CACHE_DIR : you can setup it like ==> 
