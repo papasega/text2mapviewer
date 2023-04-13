@@ -49,7 +49,7 @@ nomic login [YOUR_API_TOKEN_NOMIC_HERE]
 ```
 
 In google colab : 
-        ```bash
+        ```
         !nomic login [YOUR_API_TOKEN_NOMIC_HERE]
         ```
 
