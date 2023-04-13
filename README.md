@@ -35,6 +35,19 @@ pip install --upgrade pip
 pip install text2mapviewer
 ```
 
+### Login NOMIC server
+
+Login/create your Nomic account:
+
+```bash
+nomic login
+```
+If you have already your acount : 
+
+```bash
+nomic login [YOUR_API_TOKEN_NOMIC_HERE]
+```
+
 ## Supported Transformer Models from Hugging Face 
 
 This project supports a variety of transformer models, including models from the Hugging Face Model Hub and sentence-transformers. Below are some examples:
