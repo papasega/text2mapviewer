@@ -30,4 +30,4 @@ dependencies = {file = ["requirements.txt"]}
 
 
 [project.urls]
-"Homepage" = "https://github.com/papasega/text2mapview"
+"Homepage" = "https://github.com/papasega/text2mapviewer"
