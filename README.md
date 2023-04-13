@@ -47,11 +47,18 @@ If you have already your account :
 ```bash
 nomic login [YOUR_API_TOKEN_NOMIC_HERE] 
 ```
+## Example : 
 
-In google colab : 
-        ```
-        !nomic login [YOUR_API_TOKEN_NOMIC_HERE]
-        ```
+```python
+from text2mapviewer.examples.map_embedding import project
+
+# Use the projet from the lib text2mapviewer 
+print(project) 
+```
+#### Output 
+
+[![dynamic image](https://atlas.nomic.ai/map/0b4c0459-98f2-4aab-8d47-875765832049/54017477-907d-46e8-8d56-dddf7ab7fcfc)](https://atlas.nomic.ai/map/0b4c0459-98f2-4aab-8d47-875765832049/54017477-907d-46e8-8d56-dddf7ab7fcfc)
+
 
 ## Supported Transformer Models from Hugging Face 
 
