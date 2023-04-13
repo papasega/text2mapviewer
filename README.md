@@ -42,7 +42,7 @@ Login/create your Nomic account:
 ```bash
 nomic login
 ```
-If you have already your acount : 
+If you have already your account : 
 
 ```bash
 nomic login [YOUR_API_TOKEN_NOMIC_HERE]
