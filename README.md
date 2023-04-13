@@ -10,8 +10,7 @@ Use Atlas to:
     - Visualize, interact, collaborate and share large datasets of text and embeddings.
     - Collaboratively clean, tag and label your datasets
     - Build high-availability apps powered by semantic search
-    - Understand and debug the latent space of your AI model trains  
- . >>
+    - Understand and debug the latent space of your AI model trains  >>
 
 
 # How to use
