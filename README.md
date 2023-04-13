@@ -2,7 +2,7 @@ This is a vesy simple way to map your text data using [Altas from NOMIC](https:/
 
 You have to create an account to get API_KEY NOMIC. 
 
-Atlas enables you to:
+<< Atlas enables you to:
 
 Store, update and organize multi-million point datasets of unstructured text, images and embeddings.
 
@@ -18,7 +18,9 @@ Use Atlas to:
     
     - Build high-availability apps powered by semantic search
     
-    - Understand and debug the latent space of your AI model trains
+    - Understand and debug the latent space of your AI model trains  
+ >>
+
 
 # How to use
 ### Installation
