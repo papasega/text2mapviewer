@@ -55,7 +55,7 @@ from text2mapviewer.examples.map_embedding import project
 # Use the projet from the lib text2mapviewer 
 print(project) 
 ```
-#### [ Output](https://atlas.nomic.ai/map/0b4c0459-98f2-4aab-8d47-875765832049/54017477-907d-46e8-8d56-dddf7ab7fcfc)
+#### [ The Animation Ouput](https://atlas.nomic.ai/map/0b4c0459-98f2-4aab-8d47-875765832049/54017477-907d-46e8-8d56-dddf7ab7fcfc)
 
 
 
