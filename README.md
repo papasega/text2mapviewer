@@ -1,25 +1,16 @@
 This is a vesy simple way to map your text data using [Altas from NOMIC](https://docs.nomic.ai/index.html) using the lib `click`. 
-
 You have to create an account to get API_KEY NOMIC. 
 
 << Atlas enables you to:
-
 Store, update and organize multi-million point datasets of unstructured text, images and embeddings.
-
 Visually interact with your datasets from a web browser.
-
 Run semantic search and vector operations over your datasets.
-
 Use Atlas to:
 
     - Visualize, interact, collaborate and share large datasets of text and embeddings.
-    
     - Collaboratively clean, tag and label your datasets
-    
     - Build high-availability apps powered by semantic search
-    
     - Understand and debug the latent space of your AI model trains  
- 
  . >>
 
 
