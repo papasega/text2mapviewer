@@ -24,7 +24,7 @@ setup(
   author_email='pasega.wade@gmail.com',
   license='MIT', 
   classifiers=classifiers,
-  keywords='Embedding, Visualizaion, Map, Text, CSV', 
+  keywords='Embedding, Visualization, Map, Text, CSV,  Search keywords, dynamic', 
   packages=find_packages(),
   install_requires=['requirements.txt'] 
 )
