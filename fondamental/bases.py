@@ -11,7 +11,10 @@ def load_documents(file_path: str) -> List[Dict[str, str]]:
     with open(file_path, 'r', encoding='utf-8') as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
-            documents.append({                ## Change with your own variable ## 
+            documents.append({   
+                """
+                    Change with your own variables 
+                """ 
                 'filename': row['filename'],  
                 'text': row['finalText'],
                 'label': row['label'],
