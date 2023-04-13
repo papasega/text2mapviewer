@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "text2mapview"
+version = "0.2.0"
+authors = [
+    {name= "Papa Séga WADE", email= "pasega.wade@gmail.com"}
+]
+
+description = "A python package to map your own csv files data using Atlas from NOMIC"
+readme={file = "README.md", content-type = "text/markdown"} 
+keywords=[
+    "Embedding, Visualization, Map, Text, CSV,  Search keywords, Dynamic"
+]
+requires-python = ">=3.8"
+
+classifiers=[
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+
+dynamic = ["dependencies"]
+
+[tool.setuptools.dynamic]
+dependencies = {file = ["requirements.txt"]}
+
+
+[project.urls]
+"Homepage" = "https://github.com/papasega/text2mapview"
