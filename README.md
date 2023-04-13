@@ -1,4 +1,5 @@
-This is a vesy simple way to map your text data using [Altas from NOMIC](https://docs.nomic.ai/index.html) using the lib `click`. \\
+This is a vesy simple way to map your text data using [Altas from NOMIC](https://docs.nomic.ai/index.html) using the lib `click`.
+
 You have to create an account to get API_KEY NOMIC. 
 
 << Atlas enables you to:
