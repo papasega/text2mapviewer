@@ -38,14 +38,21 @@ If you have already your account :
 ```bash
 nomic login [YOUR_API_TOKEN_NOMIC_HERE] 
 ```
-## Example : 
-
+## Examples : 
+#### from NOMIC and with lib text2mapviewer 
 ```python
 from text2mapviewer.examples.map_embedding import project
 
 # Use the projet from the lib text2mapviewer 
 print(project) 
 ```
+
+#### With the lib `click` after clone this ripo
+
+```python
+python scr/text2mapviewer/examples/map_embedding_click.py --num_embeddings 10000 --embedding_dim 256
+```
+
 #### [ The Animation Ouput](https://atlas.nomic.ai/map/0b4c0459-98f2-4aab-8d47-875765832049/54017477-907d-46e8-8d56-dddf7ab7fcfc)
 
 
