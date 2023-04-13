@@ -19,7 +19,8 @@ Use Atlas to:
     - Build high-availability apps powered by semantic search
     
     - Understand and debug the latent space of your AI model trains  
- >>
+ 
+ . >>
 
 
 # How to use
